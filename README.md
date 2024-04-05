@@ -4,9 +4,9 @@
 
 * 문제상황 및 데이터 살펴보기
 * 문제해결 프로세스 정의
-* 🥉Session 1 - 「Data Info check & Data Merge」
-* 🥈Session 2 - 「EDA」
-* 🥇Session 3 - 「Modeling Process」
+* 🥉Session 1 - 「Data Info check & Data Merge」 : https://colab.research.google.com/drive/1DtUau8CROXtPVGkV34dsJ7QHjvw1KD0Z#scrollTo=2o25gJiIeWoT
+* 🥈Session 2 - 「EDA」 : https://colab.research.google.com/drive/1DtUau8CROXtPVGkV34dsJ7QHjvw1KD0Z#scrollTo=RUALhbTOobow
+* 🥇Session 3 - 「Modeling Process」: github upload
 
 > **데이터출처**
 
@@ -167,7 +167,3 @@
 ▶ 정확한 배송예측시간제공을 통한 서비스 개선
 ▶ 물류센터위치 최적화로 배송기간단축
 ```
-
-* 🥉Session 1 - 「Data Info check & Data Merge」
-* 🥈Session 2 - 「EDA」
-▶ https://colab.research.google.com/drive/1DtUau8CROXtPVGkV34dsJ7QHjvw1KD0Z#scrollTo=2o25gJiIeWoT
