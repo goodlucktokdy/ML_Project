@@ -38,7 +38,8 @@
 
   > **데이터 살펴보기**
 
-<img src = "https://drive.google.com/uc?id=1IN99BI0TPfcLd2x0qQzgvsIbBdw9os42" height = 300 width = 600>
+<img width="558" alt="스크린샷 2024-03-29 150047" src="https://github.com/sxlbl/ML_Project/assets/154489441/e36cc774-106a-421f-b42f-bad103818339">
+
 
 |Table|Description|Number of Columns|
 |:---|:---|:---|
